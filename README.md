@@ -88,16 +88,12 @@ cordova emulate android
 Application permettant de gérer des contacts sur Android avec CRUD complet,
 recherche dynamique, système de favoris, tri et synchronisation via export/import JSON.
 
-→ [Voir le projet](./Gestionnaire%20de%20contacts)
-
 ---
 
 ### 🏋️ Calculateur IMC — Modou DELL
 
 Application de calcul de l'Indice de Masse Corporelle avec affichage coloré
 du résultat et interprétation médicale (insuffisance pondérale, normal, surpoids, obésité).
-
-→ [Voir le projet](./Calculateur%20IMC)
 
 ---
 
@@ -106,7 +102,7 @@ du résultat et interprétation médicale (insuffisance pondérale, normal, surp
 Application de gestion des tâches permettant d'ajouter, modifier, supprimer
 et marquer des tâches comme complétées avec sauvegarde locale.
 
-🎥 Démonstration disponible dans le dossier [`TodoList`](./TodoList).
+🎥 Démonstration disponible dans le dossier
 
 ---
 
